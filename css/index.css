@@ -168,6 +168,9 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+.navHead {
+  display: flex;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
@@ -224,4 +227,7 @@ img {
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+}
+hr {
+  width: 100%;
 }
